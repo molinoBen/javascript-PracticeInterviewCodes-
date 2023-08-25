@@ -25,4 +25,4 @@ for (let r = 0; r < n; r++) {
   }
 }
 
-console.log(matrix);
+// console.log(matrix);
